@@ -45,5 +45,4 @@ RUN mkdir deleteMe && \
     python3 libCopy.py && \
     rm -rf req_libs.zip && \
     rm -rf delteMe
-
-~                                               
+                                               
